@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: agency.umatter
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, data, data-mongodb-reactive, graalvm, http-client-test, java, java-application, junit, liquibase, logback, lombok, management, maven, maven-enforcer-plugin, micrometer, micrometer-annotation, micronaut-aot, micronaut-http-validation, mockito, netty-server, openapi, problem-json, readme, rxjava3, serialization-jackson, shade, static-resources, test-resources, validation, yaml, yaml-build]

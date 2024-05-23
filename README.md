@@ -1,0 +1,26 @@
+# Security - uMatter
+
+## Documentations
+
+- [User Guide](https://docs.micronaut.io/4.4.2/guide/index.html)
+- [API Reference](https://docs.micronaut.io/4.4.2/api/index.html)
+- [Configuration Reference](https://docs.micronaut.io/4.4.2/guide/configurationreference.html)
+- [Micronaut Guides](https://guides.micronaut.io/index.html)
+- [Micronaut Maven Plugin documentation](https://micronaut-projects.github.io/micronaut-maven-plugin/latest/)
+- [Micronaut OpenAPI Support documentation](https://micronaut-projects.github.io/micronaut-openapi/latest/guide/index.html)
+- [https://www.openapis.org](https://www.openapis.org)
+- [https://maven.apache.org/enforcer/maven-enforcer-plugin/](https://maven.apache.org/enforcer/maven-enforcer-plugin/)
+- [Micronaut AOT documentation](https://micronaut-projects.github.io/micronaut-aot/latest/guide/)
+- [https://site.mockito.org](https://site.mockito.org)
+- [Micronaut Management documentation](https://docs.micronaut.io/latest/guide/index.html#management)
+- [Micronaut Validation documentation](https://micronaut-projects.github.io/micronaut-validation/latest/guide/)
+- [Micronaut Project Lombok documentation](https://docs.micronaut.io/latest/guide/index.html#lombok)
+- [https://projectlombok.org/features/all](https://projectlombok.org/features/all)
+- [Micronaut Test Resources documentation](https://micronaut-projects.github.io/micronaut-test-resources/latest/guide/)
+- [Micronaut Problem JSON documentation](https://micronaut-projects.github.io/micronaut-problem-json/latest/guide/index.html)
+- [Micronaut RxJava 3 documentation](https://micronaut-projects.github.io/micronaut-rxjava3/snapshot/guide/index.html)
+- [Micronaut Serialization Jackson Core documentation](https://micronaut-projects.github.io/micronaut-serialization/latest/guide/)
+- [Micronaut Liquibase Database Migration documentation](https://micronaut-projects.github.io/micronaut-liquibase/latest/guide/index.html)
+- [https://www.liquibase.org/](https://www.liquibase.org/)
+- [Micronaut Data MongoDB Reactive documentation](https://micronaut-projects.github.io/micronaut-data/latest/guide/#mongo)
+- [https://docs.mongodb.com](https://docs.mongodb.com)
